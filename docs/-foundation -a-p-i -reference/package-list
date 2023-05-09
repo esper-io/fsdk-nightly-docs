@@ -169,11 +169,13 @@ $dokka.location:io.esper.foundationsdk.usb/UsbPermissionManager/setAccessGranted
 $dokka.location:io.esper.foundationsdk.wifi////PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/index.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211///PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/index.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/EsperEap80211/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/-esper-eap80211.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/equals/#java.lang.Object/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/equals.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/getAnonymousIdentity/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/get-anonymous-identity.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/getIdentity/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/get-identity.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/getMethod/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/get-method.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/getPhase2Auth/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/get-phase2-auth.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/getSystemCertDomain/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/get-system-cert-domain.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/hashCode/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/hash-code.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/isEnableSystemCert/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/is-enable-system-cert.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/setAnonymousIdentity/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/set-anonymous-identity.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/setEnableSystemCert/#boolean/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/set-enable-system-cert.html
@@ -181,23 +183,29 @@ $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/setIdentity/#java.lang
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/setMethod/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/set-method.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/setPhase2Auth/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/set-phase2-auth.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/setSystemCertDomain/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/set-system-cert-domain.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperEap80211/toString/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-eap80211/to-string.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy///PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/index.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/EsperProxy/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/-esper-proxy.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperProxy/equals/#java.lang.Object/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/equals.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/getExclusionList/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/get-exclusion-list.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/getHostName/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/get-host-name.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/getPacUrl/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/get-pac-url.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/getPort/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/get-port.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperProxy/hashCode/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/hash-code.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/setExclusionList/#java.lang.String[]/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/set-exclusion-list.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/setHostName/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/set-host-name.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/setPacUrl/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/set-pac-url.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperProxy/setPort/#int/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/set-port.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperProxy/toString/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-proxy/to-string.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration///PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/index.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/EsperWifiConfiguration/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/-esper-wifi-configuration.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/equals/#java.lang.Object/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/equals.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/getEap80211/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/get-eap80211.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/getPassphrase/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/get-passphrase.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/getProxy/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/get-proxy.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/getSecurity/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/get-security.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/getSsid/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/get-ssid.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/hashCode/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/hash-code.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/isHidden/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/is-hidden.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/isMetered/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/is-metered.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/setEap80211/#io.esper.foundationsdk.wifi.EsperEap80211/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/set-eap80211.html
@@ -207,9 +215,13 @@ $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/setPassphrase
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/setProxy/#io.esper.foundationsdk.wifi.EsperProxy/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/set-proxy.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/setSecurity/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/set-security.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/setSsid/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/set-ssid.html
+$dokka.location:io.esper.foundationsdk.wifi/EsperWifiConfiguration/toString/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-configuration/to-string.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiManager///PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-manager/index.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiManager/addWifiNetwork/#io.esper.foundationsdk.wifi.EsperWifiConfiguration#boolean/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-manager/add-wifi-network.html
 $dokka.location:io.esper.foundationsdk.wifi/EsperWifiManager/getInstance/#android.content.Context/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.wifi/-esper-wifi-manager/get-instance.html
+$dokka.location:io.esper.foundationsdk////PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk/index.html
+$dokka.location:io.esper.foundationsdk/Constants///PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk/-constants/index.html
+io.esper.foundationsdk
 io.esper.foundationsdk.adb
 io.esper.foundationsdk.alarm
 io.esper.foundationsdk.backup
