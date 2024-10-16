@@ -27,6 +27,13 @@ $dokka.location:io.esper.foundationsdk.branding/BrandingManager///PointingToDecl
 $dokka.location:io.esper.foundationsdk.branding/BrandingManager/disableCustomBootAnim/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.branding/-branding-manager/disable-custom-boot-anim.html
 $dokka.location:io.esper.foundationsdk.branding/BrandingManager/getInstance/#android.content.Context/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.branding/-branding-manager/get-instance.html
 $dokka.location:io.esper.foundationsdk.branding/BrandingManager/setCustomBootAnim/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.branding/-branding-manager/set-custom-boot-anim.html
+$dokka.location:io.esper.foundationsdk.config////PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.config/index.html
+$dokka.location:io.esper.foundationsdk.config/EsperConfigManager///PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.config/-esper-config-manager/index.html
+$dokka.location:io.esper.foundationsdk.config/EsperConfigManager/getConfigValue/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.config/-esper-config-manager/get-config-value.html
+$dokka.location:io.esper.foundationsdk.config/EsperConfigManager/getInstance/#android.content.Context/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.config/-esper-config-manager/get-instance.html
+$dokka.location:io.esper.foundationsdk.config/EsperConfigManager/getSupportedConfigNames/#/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.config/-esper-config-manager/get-supported-config-names.html
+$dokka.location:io.esper.foundationsdk.config/EsperConfigManager/isConfigSupported/#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.config/-esper-config-manager/is-config-supported.html
+$dokka.location:io.esper.foundationsdk.config/EsperConfigManager/setConfigValue/#java.lang.String#java.lang.String/PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.config/-esper-config-manager/set-config-value.html
 $dokka.location:io.esper.foundationsdk.credentials////PointingToDeclaration/-foundation -a-p-i -reference/io.esper.foundationsdk.credentials/index.html
 $dokka.location:io.esper.foundationsdk.credentials/CertType.CA_CERT///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-foundation -a-p-i -reference/io.esper.foundationsdk.credentials/-cert-type/-c-a_-c-e-r-t/index.html
 $dokka.location:io.esper.foundationsdk.credentials/CertType.USR_CERT///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-foundation -a-p-i -reference/io.esper.foundationsdk.credentials/-cert-type/-u-s-r_-c-e-r-t/index.html
@@ -226,6 +233,7 @@ io.esper.foundationsdk.adb
 io.esper.foundationsdk.alarm
 io.esper.foundationsdk.backup
 io.esper.foundationsdk.branding
+io.esper.foundationsdk.config
 io.esper.foundationsdk.credentials
 io.esper.foundationsdk.ethernet
 io.esper.foundationsdk.lib
